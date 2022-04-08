@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thanhttp02@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tran-thanh-3277019a/](https://www.linkedin.com/in/tran-thanh-3277019a/)
+%- 📄 Know about my experiences [https://www.linkedin.com/in/tran-thanh-3277019a/](https://www.linkedin.com/in/tran-thanh-3277019a/)
 
 - ⚡ Fun fact **I think I am funny but people said that I look serious**
 
