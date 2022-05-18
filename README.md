@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thanhtran1965](https://github.com/thanhtran1965)
+- 👨‍💻 All of my public projects are available at [https://github.com/thanhtran1965](https://github.com/thanhtran1965). 
 
-- 💬 Ask me about **medical image processing and sound processing**
+- 💬 Ask me about **applying AI in medical image processing and sound processing**
 
 - 📫 How to reach me **thanhttp02@gmail.com**
 
