@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
 - 👨‍💻 All of my public projects are available at [my Github](https://github.com/thanhtran1965) or [Kaggle](https://www.kaggle.com/phiyenthao). 
+- 👨‍💻 Some private research projects will be updated soon when research papers are accepted. 
 
 - 💬 Ask me about **applying AI in medical image processing and sound processing**
 
