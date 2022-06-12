@@ -5,15 +5,18 @@
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
-- 👨‍💻 All of my public projects are available at [my Github](https://github.com/thanhtran1965) or [Kaggle](https://www.kaggle.com/phiyenthao). 
-- 👨‍💻 Some private research projects will be updated soon when research papers are accepted. 
+- 👩‍💻 All of my public projects are available at [my Github](https://github.com/thanhtran1965) or [Kaggle](https://www.kaggle.com/phiyenthao). 
+- 👩‍💻 Some private research projects will be updated soon when research papers are accepted. 
+- 👩‍💻 I am trying to make all my research papers open access with code so that other researchers can reprocedure. 
 
 - 💬 Ask me about **applying AI in medical image processing, computer vision and sound processing**
 
 - 📫 How to reach me **thanhttp02@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and sweet but people said that I look serious**
-- 😄 My special ability is talking to animals🐱🐶🐦🦆
+
+- 😄 My special ability is talking to animals 🐱🐶🐦🦆
+
 - My hobbies are 🏊🏋🏂
 
 <h3 align="left">Languages and Tools:</h3>
