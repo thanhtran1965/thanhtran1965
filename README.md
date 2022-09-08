@@ -9,6 +9,8 @@
 - 👩‍💻 Some private research projects will be updated soon when research papers are accepted. 
 - 👩‍💻 I am trying to make all my research papers open access with code so that other researchers can reprocedure. 
 
+My point is that by allowing other researchers to investigate, validate, and improve on earlier work, open access publishing encourages more study and innovation and contributes to the spread of knowledge in society.
+
 - 💬 Ask me about **applying AI in medical image processing, computer vision and sound processing**
 
 - 📫 How to reach me **thanhttp02@gmail.com**
