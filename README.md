@@ -21,7 +21,7 @@ My point is that by allowing other researchers to investigate, validate, and imp
 
 - My hobbies are 🏊🏋🏂
 
-I graduated from college as valedictorian in information technology. I particularly excel at learning math and C++ programming. I also enjoy physics. My master's advisor provided me with excellent training in image processing and artificial intelligence. I like to solve problems. Despite being something of a nerd, I enjoy participating in sports, especially swimming and working out in the gym. I have a gym addiction. I periodically go trekking and jogging, but lately, I haven't been doing either of them because of my busy life as a scientific worker and a coding monkey. Cross-country skiing is something I'm new to, and I want to find some time to learn more about sailing.
+<!-- I graduated from college as valedictorian in information technology. I particularly excel at learning math and C++ programming. I also enjoy physics. My master's advisor provided me with excellent training in image processing and artificial intelligence. I like to solve problems. Despite being something of a nerd, I enjoy participating in sports, especially swimming and working out in the gym. I have a gym addiction. I periodically go trekking and jogging, but lately, I haven't been doing either of them because of my busy life as a scientific worker and a coding monkey. Cross-country skiing is something I'm new to, and I want to find some time to learn more about sailing. -->
 
 My next goal is winning a kaggle challenge.
 
