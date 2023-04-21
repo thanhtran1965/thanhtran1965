@@ -15,7 +15,7 @@ My point is that by allowing other researchers to investigate, validate, and imp
 
 - 📫 How to reach me **thanhttp02@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and sweet but people said that I look serious**
+- ⚡ Fun fact **I think I am funny and sweet but people said that I look serious and arrogant**
 
 - 😄 My special ability is talking to animals 🐱🐶🐦🦆
 
