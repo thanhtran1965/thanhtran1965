@@ -15,7 +15,7 @@ My point is that by allowing other researchers to investigate, validate, and imp
 
 - 📫 How to reach me **thanhttp02@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and sweet but people said that I look serious and arrogant**
+- ⚡ Fun fact **I think I am funny and sweet but people said that I look serious and arrogant. I am renowned for my icy demeanor, often referred to as the "Ice Queen" by my college companions.**
 
 - 😄 My special ability is talking to animals 🐱🐶🐦🦆
 
