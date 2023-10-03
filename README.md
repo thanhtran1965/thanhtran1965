@@ -9,9 +9,9 @@
 - 👩‍💻 Some private research projects will be updated soon when research papers are accepted. 
 - 👩‍💻 I am trying to make all my research papers open access with code so that other researchers can reprocedure. 
 
-My point is that by allowing other researchers to investigate, validate, and improve on earlier work, open access publishing encourages more study and innovation and contributes to the spread of knowledge in society.
+My point is that by allowing other researchers to investigate, validate, and improve on earlier work, open-access publishing encourages more study and innovation and contributes to the spread of knowledge in society.
 
-- 💬 Ask me about **applying AI in medical image processing, computer vision and sound processing**
+- 💬 Ask me about **applying AI in medical image processing, computer vision, and sound processing**
 
 - 📫 How to reach me **thanhttp02@gmail.com**
 
@@ -22,9 +22,9 @@ My point is that by allowing other researchers to investigate, validate, and imp
 - My hobbies are 🏊🏋🏂
 - I have just started learning kayaking. It is fun.
 
-<!--I graduated from college as valedictorian in information technology. I particularly excel at learning math and C++ programming. I also enjoy physics. My master's advisor provided me with excellent training in image processing and artificial intelligence. I like to solve problems. Despite being something of a nerd, I enjoy participating in sports, especially swimming and working out in the gym. I have a gym addiction. I periodically go trekking and jogging, but lately, I haven't been doing either of them because of my busy life as a scientific worker and a coding monkey. Cross-country skiing is something I'm new to, and I want to find some time to learn more about sailing. -->
+<!--I graduated from college as a valedictorian in information technology. I particularly excel at learning math and C++ programming. I also enjoy physics. My master's advisor provided me with excellent training in image processing and artificial intelligence. I like to solve problems. Despite being something of a nerd, I enjoy participating in sports, especially swimming and working out in the gym. I have a gym addiction. I periodically go trekking and jogging, but lately, I haven't been doing either of them because of my busy life as a scientific worker and a coding monkey. Cross-country skiing is something I'm new to, and I want to find some time to learn more about sailing. -->
 
-I am a workaholic and a highly skilled professional with a great sense of humor. My next goal is winning a kaggle challenge together with my buddies, publish a research paper on top conference or top field journal.
+I am a workaholic and a highly skilled professional with a great sense of humor. My next goal is to win a kaggle challenge together with my buddies and publish a research paper at a top conference or top field journal.
 
  
 <h3 align="left">Languages and Tools:</h3>
