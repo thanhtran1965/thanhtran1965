@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thanh_Tran</h1>
 <h3 align="center">A passionate AI/ML researcher</h3>
 
-- 🔭 I’m currently working on [AISound – Akustisk sensoruppsättning för AI-övervakningssystem](https://www.miun.se/Forskning/forskningsprojekt/pagaende-forskningsprojekt/aisound--akustisk-sensoruppsattning-for-ai-overvakningssystem/)
+- 🔭 I’m currently a Machine Learning Engineer working on AI for Computer Vision applications. I have worked on [AISound – Akustisk sensoruppsättning för AI-övervakningssystem](https://www.miun.se/Forskning/forskningsprojekt/pagaende-forskningsprojekt/aisound--akustisk-sensoruppsattning-for-ai-overvakningssystem/)
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 Currently I’m not looking to collaborate on **AI/ML projects** since I am quite busy with new challenges.
 
 - 👩‍💻 All of my public projects are available at [my Github](https://github.com/thanhtran1965) or [Kaggle](https://www.kaggle.com/phiyenthao). 
 - 👩‍💻 Some private research projects will be updated soon when research papers are accepted. 
